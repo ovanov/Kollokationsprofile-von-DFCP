@@ -39,9 +39,9 @@ def create_axis(collocators: List[List[Tuple]]):
 
 def draw_plot(x_ax, y_ax): # all after dass
 
-    plt.title("10 häuffigste Kollokatoren in 10 positionen nach DFCP mit W-Element")
+    plt.title("10 häufigste Kollokatoren in 10 Positionen nach DFCP mit W-Element")
     plt.xlabel("Positionen")
-    plt.ylabel("Häuffigkeit")
+    plt.ylabel("Häufigkeit")
 
     for i in range(len(y_ax[0])):
         # plt.plot([pt[i] for pt in x_ax[0]], [pt[i] for pt in y_ax[0]], label = f'id {i}')
