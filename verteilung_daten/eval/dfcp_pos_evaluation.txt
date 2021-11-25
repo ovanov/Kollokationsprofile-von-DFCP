@@ -1,0 +1,315 @@
+Checking the p-value for dfcp and 'd''
+
+Chi Square Value & and critical value and DOF:   16.719 4.3343704523139665e-05 1
+ODD ration, Fisher's p-value                 :   0.187406 8.540020943890354e-07
+
++----------------+
+
+Checking the p-value for dfcp and 'du'
+
+Chi Square Value & and critical value and DOF:   70.999 3.5733338498522606e-17 1
+ODD ration, Fisher's p-value                 :   0.038429 1.4521643059912126e-28
+
++----------------+
+
+Checking the p-value for dfcp and 'ich'
+
+Chi Square Value & and critical value and DOF:   98.085 4.0088464426788325e-23 1
+ODD ration, Fisher's p-value                 :   0.028497 2.266722410621406e-39
+
++----------------+
+
+Checking the p-value for dfcp and 'me'
+
+Chi Square Value & and critical value and DOF:   5.994 0.01435671796783852 1
+ODD ration, Fisher's p-value                 :   0.191917 0.004140360486623935
+
++----------------+
+
+Checking the p-value for dfcp and 'er'
+
+Chi Square Value & and critical value and DOF:   23.46 1.2754495943594395e-06 1
+ODD ration, Fisher's p-value                 :   0.070658 5.281891843953259e-10
+
++----------------+
+
+Checking the p-value for dfcp and 'rechne'
+
+Chi Square Value & and critical value and DOF:   12.281 0.0004575546663363739 1
+ODD ration, Fisher's p-value                 :   14.834086 0.009701684444172924
+
++----------------+
+
+Checking the p-value for dfcp and 'es'
+
+Chi Square Value & and critical value and DOF:   49.232 2.273944691127104e-12 1
+ODD ration, Fisher's p-value                 :   0.036874 2.25282989607744e-20
+
++----------------+
+
+Checking the p-value for dfcp and 'dr'
+
+Chi Square Value & and critical value and DOF:   5.533 0.01866138364484948 1
+ODD ration, Fisher's p-value                 :   0.201421 0.005713269579730282
+
++----------------+
+
+Checking the p-value for dfcp and 'das'
+
+Chi Square Value & and critical value and DOF:   67.264 2.375082315934689e-16 1
+ODD ration, Fisher's p-value                 :   0.014215 2.438406607213732e-28
+
++----------------+
+
+Checking the p-value for dfcp and 'hät'
+
+Chi Square Value & and critical value and DOF:   1.127 0.28839824190641916 1
+ODD ration, Fisher's p-value                 :   0.2864 0.275153654139363
+
++----------------+
+
+Checking the p-value for dfcp and 'bisch'
+
+Chi Square Value & and critical value and DOF:   12.826 0.0003418301993869982 1
+ODD ration, Fisher's p-value                 :   0.155886 1.284807416077573e-05
+
++----------------+
+
+Checking the p-value for dfcp and 'bi'
+
+Chi Square Value & and critical value and DOF:   38.917 4.422932814503434e-10 1
+ODD ration, Fisher's p-value                 :   0.045586 2.816509214285214e-16
+
++----------------+
+
+Checking the p-value for dfcp and 'muesch'
+
+Chi Square Value & and critical value and DOF:   0.938 0.33272552448756343 1
+ODD ration, Fisher's p-value                 :   0.436297 0.3411139020835689
+
++----------------+
+
+Checking the p-value for dfcp and 'isch'
+
+Chi Square Value & and critical value and DOF:   84.063 4.7926869907993317e-20 1
+ODD ration, Fisher's p-value                 :   0.022422 2.2090296839004268e-34
+
++----------------+
+
+Checking the p-value for dfcp and 'zug'
+
+Chi Square Value & and critical value and DOF:   3.292 0.06960026219863007 1
+ODD ration, Fisher's p-value                 :   0.168696 0.035683759669652176
+
++----------------+
+
+Checking the p-value for dfcp and 'gässe'
+
+Chi Square Value & and critical value and DOF:   0.087 0.7677019345921291 1
+ODD ration, Fisher's p-value                 :   3.073559 0.2826124504428594
+
++----------------+
+
+Checking the p-value for dfcp and 'marit'
+
+Chi Square Value & and critical value and DOF:   0.194 0.6594356743172635 1
+ODD ration, Fisher's p-value                 :   1.086344 0.6035014174979162
+
++----------------+
+
+Checking the p-value for dfcp and 'lade'
+
+Chi Square Value & and critical value and DOF:   0.07 0.7911708018501489 1
+ODD ration, Fisher's p-value                 :   1.38479 0.5168644055770074
+
++----------------+
+
+Checking the p-value for dfcp and 'experte'
+
+Chi Square Value & and critical value and DOF:   7.021 0.008056331342841158 1
+ODD ration, Fisher's p-value                 :   42.00531 0.031139940378056747
+
++----------------+
+
+Checking the p-value for dfcp and ':)'
+
+Chi Square Value & and critical value and DOF:   72.167 1.977030150115482e-17 1
+ODD ration, Fisher's p-value                 :   0.025886 1.3867774926946846e-29
+
++----------------+
+
+Checking the p-value for dfcp and 'GA'
+
+Chi Square Value & and critical value and DOF:   17.653 2.6511756097853277e-05 1
+ODD ration, Fisher's p-value                 :   21.014955 0.0052993910799459905
+
++----------------+
+
+Checking the p-value for dfcp and ','
+
+Chi Square Value & and critical value and DOF:   126.167 2.8265525200958625e-29 1
+ODD ration, Fisher's p-value                 :   0.015216 2.2878086995105688e-51
+
++----------------+
+
+Checking the p-value for dfcp and '?'
+
+Chi Square Value & and critical value and DOF:   285.273 5.326962932867987e-64 1
+ODD ration, Fisher's p-value                 :   0.00687 3.571572771454013e-112
+
++----------------+
+
+Checking the p-value for dfcp and 'der'
+
+Chi Square Value & and critical value and DOF:   14.924 0.00011194448862676384 1
+ODD ration, Fisher's p-value                 :   0.056082 7.589797904687416e-07
+
++----------------+
+
+Checking the p-value for dfcp and 'alles'
+
+Chi Square Value & and critical value and DOF:   9.247 0.0023591451045258476 1
+ODD ration, Fisher's p-value                 :   0.082742 0.00018415038024666868
+
++----------------+
+
+Checking the p-value for dfcp and 'dank'
+
+Chi Square Value & and critical value and DOF:   0.019 0.890905635938041 1
+ODD ration, Fisher's p-value                 :   1.658104 0.45603585646249223
+
++----------------+
+
+Checking the p-value for dfcp and 'isch'
+
+Chi Square Value & and critical value and DOF:   86.132 1.6830539765263086e-20 1
+ODD ration, Fisher's p-value                 :   0.011203 4.039639053253408e-36
+
++----------------+
+
+Checking the p-value for dfcp and ','
+
+Chi Square Value & and critical value and DOF:   126.167 2.8265525200958625e-29 1
+ODD ration, Fisher's p-value                 :   0.015216 2.2878086995105688e-51
+
++----------------+
+
+Checking the p-value for dfcp and 'i'
+
+Chi Square Value & and critical value and DOF:   63.151 1.914952713351974e-15 1
+ODD ration, Fisher's p-value                 :   0.02932 4.6450542122806484e-26
+
++----------------+
+
+Checking the p-value for dfcp and 'gross'
+
+Chi Square Value & and critical value and DOF:   0.004 0.9478294099891921 1
+ODD ration, Fisher's p-value                 :   0.63008 1.0
+
++----------------+
+
+Checking the p-value for dfcp and 'em'
+
+Chi Square Value & and critical value and DOF:   7.388 0.006567184808227741 1
+ODD ration, Fisher's p-value                 :   0.098143 0.0011336689869304386
+
++----------------+
+
+Checking the p-value for dfcp and 'isch'
+
+Chi Square Value & and critical value and DOF:   86.132 1.6830539765263086e-20 1
+ODD ration, Fisher's p-value                 :   0.011203 4.039639053253408e-36
+
++----------------+
+
+Checking the p-value for dfcp and 'der'
+
+Chi Square Value & and critical value and DOF:   14.924 0.00011194448862676384 1
+ODD ration, Fisher's p-value                 :   0.056082 7.589797904687416e-07
+
++----------------+
+
+Checking the p-value for dfcp and 'nur'
+
+Chi Square Value & and critical value and DOF:   17.231 3.3099304004411965e-05 1
+ODD ration, Fisher's p-value                 :   0.049613 8.32196590477219e-08
+
++----------------+
+
+Checking the p-value for dfcp and 's'
+
+Chi Square Value & and critical value and DOF:   18.453 1.7416313689527144e-05 1
+ODD ration, Fisher's p-value                 :   0.046759 2.781452443644906e-08
+
++----------------+
+
+Checking the p-value for dfcp and 'aber'
+
+Chi Square Value & and critical value and DOF:   49.363 2.1269604760863914e-12 1
+ODD ration, Fisher's p-value                 :   0.019082 4.256009207687605e-21
+
++----------------+
+
+Checking the p-value for dfcp and 'muni'
+
+Chi Square Value & and critical value and DOF:   0.159 0.6902805682927193 1
+ODD ration, Fisher's p-value                 :   1.854261 0.2961329229754095
+
++----------------+
+
+Checking the p-value for dfcp and 'und'
+
+Chi Square Value & and critical value and DOF:   116.076 4.573487290118807e-27 1
+ODD ration, Fisher's p-value                 :   0.008384 2.4431849149031802e-48
+
++----------------+
+
+Checking the p-value for dfcp and 'sie'
+
+Chi Square Value & and critical value and DOF:   24.847 6.206531331242091e-07 1
+ODD ration, Fisher's p-value                 :   0.035953 7.63266465992929e-11
+
++----------------+
+
+Checking the p-value for dfcp and 'so'
+
+Chi Square Value & and critical value and DOF:   84.245 4.371610531897163e-20 1
+ODD ration, Fisher's p-value                 :   0.022376 1.3694222379201728e-34
+
++----------------+
+
+Checking the p-value for dfcp and 'mit'
+
+Chi Square Value & and critical value and DOF:   45.727 1.3595641471360562e-11 1
+ODD ration, Fisher's p-value                 :   0.039434 7.299520572346737e-19
+
++----------------+
+
+Checking the p-value for dfcp and 'was'
+
+Chi Square Value & and critical value and DOF:   38.789 4.721328106592742e-10 1
+ODD ration, Fisher's p-value                 :   0.023921 9.013406831017842e-17
+
++----------------+
+
+Checking the p-value for dfcp and 'nur'
+
+Chi Square Value & and critical value and DOF:   17.231 3.3099304004411965e-05 1
+ODD ration, Fisher's p-value                 :   0.049613 8.32196590477219e-08
+
++----------------+
+
+Checking the p-value for dfcp and '?'
+
+Chi Square Value & and critical value and DOF:   287.608 1.6506922204867653e-64 1
+ODD ration, Fisher's p-value                 :   0.003433 2.4790369124075237e-114
+
++----------------+
+
+Checking the p-value for dfcp and 's'
+
+Chi Square Value & and critical value and DOF:   18.453 1.7416313689527144e-05 1
+ODD ration, Fisher's p-value                 :   0.046759 2.781452443644906e-08
+
++----------------+
+

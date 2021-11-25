@@ -1,0 +1,490 @@
+Checking the p-value for dass and ','
+
+Chi Square Value & and critical value and DOF:   1134.665 9.6552501526053e-249 1
+ODD ration, Fisher's p-value                 :   5.211337 4.895279175082208e-153
+
++----------------+
+
+Checking the p-value for dass and 'gwüsst'
+
+Chi Square Value & and critical value and DOF:   329.765 1.0814929270034417e-73 1
+ODD ration, Fisher's p-value                 :   15.933813 2.4440479499323986e-23
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   67.402 2.214654082010606e-16 1
+ODD ration, Fisher's p-value                 :   0.230273 2.4898863650152047e-22
+
++----------------+
+
+Checking the p-value for dass and 'nid'
+
+Chi Square Value & and critical value and DOF:   3.031 0.08170432533142746 1
+ODD ration, Fisher's p-value                 :   0.676187 0.07341605731359685
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   51.29 7.967134449766571e-13 1
+ODD ration, Fisher's p-value                 :   0.226508 2.179523480847061e-17
+
++----------------+
+
+Checking the p-value for dass and 'nöd'
+
+Chi Square Value & and critical value and DOF:   4.009 0.04526544400017849 1
+ODD ration, Fisher's p-value                 :   0.602206 0.03459595512219013
+
++----------------+
+
+Checking the p-value for dass and 'gmerkt'
+
+Chi Square Value & and critical value and DOF:   101.156 8.499880957691883e-24 1
+ODD ration, Fisher's p-value                 :   10.457355 3.389531779068473e-10
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   39.256 3.716980451300637e-10 1
+ODD ration, Fisher's p-value                 :   0.318846 6.212976253139669e-13
+
++----------------+
+
+Checking the p-value for dass and 'glaub'
+
+Chi Square Value & and critical value and DOF:   13.394 0.00025246456995336536 1
+ODD ration, Fisher's p-value                 :   2.278878 0.0007417154398189226
+
++----------------+
+
+Checking the p-value for dass and 'nöd'
+
+Chi Square Value & and critical value and DOF:   1.529 0.21624540034471437 1
+ODD ration, Fisher's p-value                 :   0.746496 0.21236393058030542
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   80.977 2.283582872263589e-19 1
+ODD ration, Fisher's p-value                 :   0.161191 5.206133914727485e-28
+
++----------------+
+
+Checking the p-value for dass and 'weiss'
+
+Chi Square Value & and critical value and DOF:   0.941 0.3319085878335982 1
+ODD ration, Fisher's p-value                 :   1.311415 0.2614976767560885
+
++----------------+
+
+Checking the p-value for dass and 'au'
+
+Chi Square Value & and critical value and DOF:   43.92 3.4203319617268726e-11 1
+ODD ration, Fisher's p-value                 :   0.225357 3.072058275745079e-15
+
++----------------+
+
+Checking the p-value for dass and 'het'
+
+Chi Square Value & and critical value and DOF:   9.323 0.002263083658540597 1
+ODD ration, Fisher's p-value                 :   0.472889 0.0008258215829429006
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   20.166 7.098905843004159e-06 1
+ODD ration, Fisher's p-value                 :   0.540978 1.1615070966141022e-06
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   61.081 5.477477339467689e-15 1
+ODD ration, Fisher's p-value                 :   0.265088 8.529128362773935e-20
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   39.256 3.716980451300637e-10 1
+ODD ration, Fisher's p-value                 :   0.318846 6.212976253139669e-13
+
++----------------+
+
+Checking the p-value for dass and 'au'
+
+Chi Square Value & and critical value and DOF:   39.262 3.7064583667139625e-10 1
+ODD ration, Fisher's p-value                 :   0.26568 2.359358122597408e-13
+
++----------------+
+
+Checking the p-value for dass and 'de'
+
+Chi Square Value & and critical value and DOF:   65.007 7.463598435101402e-16 1
+ODD ration, Fisher's p-value                 :   0.194406 3.1413390980456587e-22
+
++----------------+
+
+Checking the p-value for dass and 'sie'
+
+Chi Square Value & and critical value and DOF:   2.84 0.09196899042221163 1
+ODD ration, Fisher's p-value                 :   0.656848 0.07981087140998451
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   251.391 1.2917543645280358e-56 1
+ODD ration, Fisher's p-value                 :   0.058939 1.4437857649992841e-89
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   44.575 2.4476517411046676e-11 1
+ODD ration, Fisher's p-value                 :   0.329706 2.3022761817285483e-14
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   37.865 7.581761206089395e-10 1
+ODD ration, Fisher's p-value                 :   0.33046 2.149246422921618e-12
+
++----------------+
+
+Checking the p-value for dass and 'i'
+
+Chi Square Value & and critical value and DOF:   21.633 3.3006333399869333e-06 1
+ODD ration, Fisher's p-value                 :   0.418088 2.287528475966727e-07
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   236.313 2.5039181944504386e-53 1
+ODD ration, Fisher's p-value                 :   0.083569 1.5544849343649235e-81
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   77.466 1.3499951401480191e-18 1
+ODD ration, Fisher's p-value                 :   0.178393 2.523865431786525e-26
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   50.309 1.313777826121612e-12 1
+ODD ration, Fisher's p-value                 :   0.290137 1.970695304477261e-16
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   74.034 7.679726406436813e-18 1
+ODD ration, Fisher's p-value                 :   0.195641 6.995949173551479e-25
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   242.718 1.0048089033149968e-54 1
+ODD ration, Fisher's p-value                 :   0.072987 7.886095839991562e-85
+
++----------------+
+
+Checking the p-value for dass and 'aber'
+
+Chi Square Value & and critical value and DOF:   23.766 1.0878737838699518e-06 1
+ODD ration, Fisher's p-value                 :   0.308714 1.6297544052264237e-08
+
++----------------+
+
+Checking the p-value for dass and 'i'
+
+Chi Square Value & and critical value and DOF:   39.676 2.9984633001327407e-10 1
+ODD ration, Fisher's p-value                 :   0.221921 5.352123794074443e-14
+
++----------------+
+
+Checking the p-value for dass and 'isch'
+
+Chi Square Value & and critical value and DOF:   61.196 5.166273574150858e-15 1
+ODD ration, Fisher's p-value                 :   0.158233 1.1881109951734479e-21
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   70.679 4.204041035908307e-17 1
+ODD ration, Fisher's p-value                 :   0.212934 1.1532268688782526e-23
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   236.313 2.5039181944504386e-53 1
+ODD ration, Fisher's p-value                 :   0.083569 1.5544849343649235e-81
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   52.908 3.49630926225265e-13 1
+ODD ration, Fisher's p-value                 :   0.215036 4.7115477098886795e-18
+
++----------------+
+
+Checking the p-value for dass and 'de'
+
+Chi Square Value & and critical value and DOF:   75.526 3.605731281954832e-18 1
+ODD ration, Fisher's p-value                 :   0.135541 9.005185919705537e-27
+
++----------------+
+
+Checking the p-value for dass and 'isch'
+
+Chi Square Value & and critical value and DOF:   62.963 2.1059698056549958e-15 1
+ODD ration, Fisher's p-value                 :   0.146831 2.005548119987297e-22
+
++----------------+
+
+Checking the p-value for dass and ','
+
+Chi Square Value & and critical value and DOF:   105.823 8.06297013526986e-25 1
+ODD ration, Fisher's p-value                 :   0.091891 1.548957417566631e-38
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   219.653 1.076606687517966e-49 1
+ODD ration, Fisher's p-value                 :   0.111982 2.0829683347441378e-73
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   77.466 1.3499951401480191e-18 1
+ODD ration, Fisher's p-value                 :   0.178393 2.523865431786525e-26
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   73.107 1.2278471150207541e-17 1
+ODD ration, Fisher's p-value                 :   0.153298 1.1520030043697338e-25
+
++----------------+
+
+Checking the p-value for dass and 'de'
+
+Chi Square Value & and critical value and DOF:   73.718 9.010114562272567e-18 1
+ODD ration, Fisher's p-value                 :   0.145319 5.64802161436894e-26
+
++----------------+
+
+Checking the p-value for dass and 'au'
+
+Chi Square Value & and critical value and DOF:   48.84 2.7771141827565744e-12 1
+ODD ration, Fisher's p-value                 :   0.185202 2.7046540294036887e-17
+
++----------------+
+
+Checking the p-value for dass and ':)'
+
+Chi Square Value & and critical value and DOF:   51.529 7.055975766130702e-13 1
+ODD ration, Fisher's p-value                 :   0.16954 2.6026061674801083e-18
+
++----------------+
+
+Checking the p-value for dass and 'du'
+
+Chi Square Value & and critical value and DOF:   55.85 7.823373782572267e-14 1
+ODD ration, Fisher's p-value                 :   0.141686 2.5141459089192642e-20
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   66.75 3.0821267519766364e-16 1
+ODD ration, Fisher's p-value                 :   0.12382 3.211577127085702e-24
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   74.034 7.679726406436813e-18 1
+ODD ration, Fisher's p-value                 :   0.195641 6.995949173551479e-25
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   249.208 3.863649541879819e-56 1
+ODD ration, Fisher's p-value                 :   0.062444 3.033976596252912e-88
+
++----------------+
+
+Checking the p-value for dass and 'de'
+
+Chi Square Value & and critical value and DOF:   68.426 1.3174927801055579e-16 1
+ODD ration, Fisher's p-value                 :   0.174732 1.1200157483967852e-23
+
++----------------+
+
+Checking the p-value for dass and 'am'
+
+Chi Square Value & and critical value and DOF:   20.682 5.423631380307569e-06 1
+ODD ration, Fisher's p-value                 :   0.32042 1.5899068324317798e-07
+
++----------------+
+
+Checking the p-value for dass and 'au'
+
+Chi Square Value & and critical value and DOF:   50.538 1.168775972760821e-12 1
+ODD ration, Fisher's p-value                 :   0.171854 5.0591802869392755e-18
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   80.402 3.054592171991672e-19 1
+ODD ration, Fisher's p-value                 :   0.114668 3.953537309304354e-29
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   66.75 3.0821267519766364e-16 1
+ODD ration, Fisher's p-value                 :   0.12382 3.211577127085702e-24
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   79.212 5.579082738832184e-19 1
+ODD ration, Fisher's p-value                 :   0.169786 3.0195370100259666e-27
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   247.035 1.1501491736048916e-55 1
+ODD ration, Fisher's p-value                 :   0.065954 3.623964583093312e-87
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   71.338 3.009967344420382e-17 1
+ODD ration, Fisher's p-value                 :   0.162988 6.83453094818113e-25
+
++----------------+
+
+Checking the p-value for dass and 'de'
+
+Chi Square Value & and critical value and DOF:   71.932 2.227242184768323e-17 1
+ODD ration, Fisher's p-value                 :   0.15511 3.4208561871676377e-25
+
++----------------+
+
+Checking the p-value for dass and 'du'
+
+Chi Square Value & and critical value and DOF:   48.956 2.6177622210540185e-12 1
+ODD ration, Fisher's p-value                 :   0.193744 3.6161291920741034e-17
+
++----------------+
+
+Checking the p-value for dass and 'isch'
+
+Chi Square Value & and critical value and DOF:   59.454 1.251754656765597e-14 1
+ODD ration, Fisher's p-value                 :   0.169651 6.746506591181725e-21
+
++----------------+
+
+Checking the p-value for dass and 'das'
+
+Chi Square Value & and critical value and DOF:   43.248 4.822992136796205e-11 1
+ODD ration, Fisher's p-value                 :   0.20083 3.129203071590248e-15
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   63.139 1.926538267445182e-15 1
+ODD ration, Fisher's p-value                 :   0.146531 1.3491387005695115e-22
+
++----------------+
+
+Checking the p-value for dass and '?'
+
+Chi Square Value & and critical value and DOF:   234.197 7.244540847127291e-53 1
+ODD ration, Fisher's p-value                 :   0.087105 1.571294308177656e-80
+
++----------------+
+
+Checking the p-value for dass and 'ich'
+
+Chi Square Value & and critical value and DOF:   67.864 1.7516634641427716e-16 1
+ODD ration, Fisher's p-value                 :   0.182406 2.128473254130259e-23
+
++----------------+
+
+Checking the p-value for dass and 'no'
+
+Chi Square Value & and critical value and DOF:   55.055 1.171926901695271e-13 1
+ODD ration, Fisher's p-value                 :   0.170544 1.5557964602314023e-19
+
++----------------+
+
+Checking the p-value for dass and 'und'
+
+Chi Square Value & and critical value and DOF:   91.976 8.77346867991674e-22 1
+ODD ration, Fisher's p-value                 :   0.109855 3.954013312638562e-33
+
++----------------+
+
+Checking the p-value for dass and 'so'
+
+Chi Square Value & and critical value and DOF:   64.932 7.753595288964478e-16 1
+ODD ration, Fisher's p-value                 :   0.135168 2.1254799105819568e-23
+
++----------------+
+
+Checking the p-value for dass and ','
+
+Chi Square Value & and critical value and DOF:   105.823 8.06297013526986e-25 1
+ODD ration, Fisher's p-value                 :   0.091891 1.548957417566631e-38
+
++----------------+
+
+Checking the p-value for dass and 'es'
+
+Chi Square Value & and critical value and DOF:   31.428 2.0692818414996014e-08 1
+ODD ration, Fisher's p-value                 :   0.222872 2.705244278723637e-11
+
++----------------+
+
+Checking the p-value for dass and 'isch'
+
+Chi Square Value & and critical value and DOF:   66.573 3.3716495343461527e-16 1
+ODD ration, Fisher's p-value                 :   0.124073 3.1162955440663808e-24
+
++----------------+
+
+Checking the p-value for dass and 'du'
+
+Chi Square Value & and critical value and DOF:   55.85 7.823373782572267e-14 1
+ODD ration, Fisher's p-value                 :   0.141686 2.5141459089192642e-20
+
++----------------+
+
