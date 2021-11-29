@@ -145,12 +145,12 @@ def main():
     dass_words, dfcp_words = create_lists("/home/jova/Tresors/organic/Uni/Almanistik/HS21/Bachelorarbeit/python/kollokationsprofile_daten/10Words/all_pos.txt") 
     data = create_df(dass_words, dfcp_words)
     data_df = create_csv(data,"/home/jova/Tresors/organic/Uni/Almanistik/HS21/Bachelorarbeit/python/kollokationsprofile_daten/10Words/all_pos.csv")
-    # create_heatmap(data_df) # plot heatmaps
+    create_heatmap(data_df) # plot heatmaps
     ## 'dass' wörter danach
     # fischers_exact_test_and_x2(data_df, '~/Tresors/organic/Uni/Almanistik/HS21/Bachelorarbeit/python/kollokationsprofile_daten/10Words/dass/annis_10word_po.csv', 'dass')
 
     ## dfcp wörter danach
-    fischers_exact_test_and_x2(data_df, '~/Tresors/organic/Uni/Almanistik/HS21/Bachelorarbeit/python/kollokationsprofile_daten/10Words/dfcp/w_tot_pos.csv', 'dfcp')
+    # fischers_exact_test_and_x2(data_df, '~/Tresors/organic/Uni/Almanistik/HS21/Bachelorarbeit/python/kollokationsprofile_daten/10Words/dfcp/w_tot_pos.csv', 'dfcp')
 
 
 

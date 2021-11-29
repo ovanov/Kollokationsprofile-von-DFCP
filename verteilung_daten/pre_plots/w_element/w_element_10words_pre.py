@@ -61,9 +61,9 @@ def draw_plot(x_ax, y_ax): # all after dass
 def draw_plot_1dass(x_ax, y_ax, pos): # first pos after dass
 
     positionen = ['erste', 'zweite', 'dritte', 'vierte', 'fünfte', 'sechste', 'siebte', 'achte', 'neunte', 'zehnte']
-    plt.title("10 häuffigste Kollokatoren in 10 positionen vor DFCP mit W-Element")
+    plt.title("10 häufigste Kollokatoren in 10 positionen vor DFCP mit W-Element")
     plt.xlabel(f"Kollokatoren ({positionen[pos]} Position vor DFCP)")
-    plt.ylabel("Häuffigkeit")
+    plt.ylabel("Häufigkeit")
 
     x_ax[pos] = [
             pt if not str(pt).startswith('emoji')

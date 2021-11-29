@@ -66,9 +66,9 @@ def draw_plot(x_ax, y_ax): # all after dass
 def draw_plot_without_first(x_ax, y_ax): # all after dass
 
     print(x_ax, y_ax)
-    plt.title("10 häuffigste Kollokatoren nach 'dass'")
+    plt.title("10 häufigste Kollokatoren nach 'dass'")
     plt.xlabel("Positionen nach 'dass'")
-    plt.ylabel("Häuffigkeit")
+    plt.ylabel("Häufigkeit")
 
 
     for i in range(len(y_ax[0]) -1):
